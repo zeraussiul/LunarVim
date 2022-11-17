@@ -39,7 +39,6 @@ declare -a __lvim_dirs=(
 
 declare -a __npm_deps=(
   "neovim"
-  "tree-sitter-cli"
 )
 
 declare -a __pip_deps=(
